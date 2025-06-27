@@ -1,67 +1,64 @@
-# Hi there 👋
+# Hi there 👋 I'm Mohamed BOUMRAR
 
-**Mohamed BOUMRAR** - Data Scientist junior certifié avec 6 projets concrets : Machine Learning, Data Engineering, déploiement d'API et Cloud. Mon parcours académique en linguistique m'apporte une approche analytique rigoureuse pour transformer les données en recommandations exploitables et les communiquer clairement aux équipes métier.
+## Data Scientist Junior | Machine Learning & NLP Specialist
 
-## 🔥 Currently working on ...
-- 🎓 **Finalizing my CDSD certification** at Jedha Bootcamp
-- 🤖 **Building ML models** for real-world business problems  
-- ☁️ **Deploying APIs** on AWS and GCP
-
-## 🌱 I'm currently learning ...
-- 🧠 **Deep Learning** with TensorFlow/Keras
-- 📊 **Advanced NLP** techniques with BERT and transformers
-- 🚀 **MLOps** and model deployment best practices
-
-## 👯 I'm looking to collaborate on ...
-- 📈 **Data Science projects** with real business impact
-- 🔍 **NLP applications** for text analysis and classification
-- 🤝 **Open source contributions** in the ML/AI community
-
-## 🤔 I'm looking for help with ...
-- 🌐 **Scaling ML applications** to production
-- 📚 **Best practices** in data engineering pipelines
-- 💡 **Career opportunities** in Data Science
-
-## 💬 Ask me about ...
-- 🔬 **Machine Learning algorithms** and model optimization
-- 📊 **Data visualization** and storytelling with data
-- 🗣️ **Linguistics** and natural language processing
-- 🎯 **Converting business problems** into data science solutions
-
-## 📫 How to reach me ...
-- 📧 **Email**: m.boumrar@hotmail.fr
-- 💼 **LinkedIn**: [Mohamed BOUMRAR](https://www.linkedin.com/in/mohamedboumrar-84b704131)
-- 📍 **Location**: Domont, France
-
-## ⚡ Fun fact ...
-- 🗣️ I speak **3 languages**: Kabyle (native), French (C2), English (B1)
-- 🎓 My **linguistics background** gives me a unique perspective on NLP and text analysis
-- 🎯 I can code with my **eyes shut** (just like Jérémy! 😄)
+Welcome to my GitHub! I'm passionate about transforming data into actionable business insights through machine learning and natural language processing.
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 What I Do
+
+- 🤖 **Machine Learning**: Build predictive models with 90%+ accuracy
+- 📊 **Data Engineering**: Design ETL pipelines and data architectures  
+- 🔍 **NLP**: Develop text classification and analysis solutions
+- ☁️ **Cloud Deployment**: Deploy ML models and APIs on AWS/GCP
+
+## 🎯 Currently
+
+- 🎓 Completing **Data Science certification** at Jedha Bootcamp
+- 🔨 Building ML projects with real business applications
+- 📈 Seeking **Data Scientist opportunities** to make impact
+
+## 💡 Featured Projects
+
+### 🕵️ **Fake News Detection System** 
+Real-time text classification with 92% accuracy using NLP and machine learning
+- **Impact**: Scalable solution for misinformation detection
+- **Tech**: Python, BERT, Random Forest, Flask API
+
+### 📊 **Predictive Dating Analytics**
+Machine learning model predicting relationship success factors
+- **Impact**: Data-driven insights for behavioral analysis  
+- **Tech**: Python, Pandas, Statistical Modeling
+
+### 🏨 **Hotel Recommendation Engine**
+End-to-end data pipeline with cloud infrastructure
+- **Impact**: Automated recommendation system with interactive dashboards
+- **Tech**: PySpark, AWS (S3, RDS), ETL, Plotly
+
+## 🛠️ Technical Stack
 
 **Languages**: Python, SQL, PySpark  
 **ML/AI**: Scikit-learn, TensorFlow, Pandas, NumPy  
-**Data Viz**: Matplotlib, Seaborn, Plotly, Streamlit  
-**Cloud**: AWS (S3, RDS), GCP  
-**Tools**: Git, Docker, Jupyter, Flask  
-**Databases**: PostgreSQL, SQL Server  
+**Cloud**: AWS (S3, RDS, EC2), Google Cloud Platform  
+**Data Viz**: Plotly, Matplotlib, Seaborn, Streamlit  
+**Tools**: Git, Docker, Flask, Jupyter, Tableau  
 
-### 🏆 Featured Projects
+## 🌟 Why Work With Me
 
-#### 🕵️ Fake News Detection with NLP
-- **92% accuracy** classification of 10,000 articles
-- Real-time API deployment with Flask
-- **Tech**: Python, BERT, Random Forest, NLP
+- 📚 **Academic rigor** from linguistics background brings analytical precision
+- 🎯 **Business-focused** approach to data science problems
+- 🗣️ **Strong communication** skills for explaining complex concepts
+- 🌍 **Multilingual** (French, English, Kabyle) for global collaboration
 
-#### 💕 Tinder Success Prediction
-- Predictive modeling for second date probability
-- Exploratory data analysis with advanced visualizations
-- **Tech**: Python, Pandas, Matplotlib/Seaborn
+## 📬 Let's Connect
 
-#### 🏨 Hotel Recommendation Engine
-- Complete ETL pipeline with PySpark
-- AWS Data Lake (S3) + SQL database (RDS)  
-- **Tech**: PySpark, AWS, SQL, Plotly
+I'm actively seeking **Data Scientist positions** where I can contribute to data-driven decision making and business growth.
+
+**📧 Email**: m.boumrar@hotmail.fr  
+**💼 LinkedIn**: [Mohamed BOUMRAR](https://www.linkedin.com/in/mohamedboumrar-84b704131)  
+**📍 Location**: Paris Area, France  
+
+---
+
+*⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!*
