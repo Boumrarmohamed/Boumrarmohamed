@@ -1,52 +1,67 @@
-# Mohamed BOUMRAR
-## Data Scientist Junior | Spécialiste en Machine Learning & NLP
+# Hi there 👋
 
-Bonjour ! Je suis Mohamed, Data Scientist junior certifié avec 6 projets concrets en Machine Learning, Data Engineering et déploiement d'API. Mon parcours académique en linguistique m'apporte une approche analytique rigoureuse pour transformer les données en recommandations exploitables.
+**Mohamed BOUMRAR** - Data Scientist junior certifié avec 6 projets concrets : Machine Learning, Data Engineering, déploiement d'API et Cloud. Mon parcours académique en linguistique m'apporte une approche analytique rigoureuse pour transformer les données en recommandations exploitables et les communiquer clairement aux équipes métier.
 
----
+## 🔥 Currently working on ...
+- 🎓 **Finalizing my CDSD certification** at Jedha Bootcamp
+- 🤖 **Building ML models** for real-world business problems  
+- ☁️ **Deploying APIs** on AWS and GCP
 
-### 🎯 Actuellement
-- 🔥 **Certification CDSD** en cours chez Jedha Bootcamp (Data Science & Engineering Fullstack)
-- 📊 Spécialisation en **NLP, Deep Learning et Cloud (AWS, GCP)**
-- 🚀 Recherche d'opportunités en **Data Science** pour appliquer mes compétences
+## 🌱 I'm currently learning ...
+- 🧠 **Deep Learning** with TensorFlow/Keras
+- 📊 **Advanced NLP** techniques with BERT and transformers
+- 🚀 **MLOps** and model deployment best practices
 
-### 💼 Projets Réalisés
+## 👯 I'm looking to collaborate on ...
+- 📈 **Data Science projects** with real business impact
+- 🔍 **NLP applications** for text analysis and classification
+- 🤝 **Open source contributions** in the ML/AI community
 
-#### 🔍 **Détection de Fake News avec NLP**
-- Classification de 10 000 articles avec **92% de précision** (Random Forest + BERT)
-- API Flask déployée pour identification en temps réel
-- **Tech** : Python, Scikit-learn, TensorFlow, NLP
+## 🤔 I'm looking for help with ...
+- 🌐 **Scaling ML applications** to production
+- 📚 **Best practices** in data engineering pipelines
+- 💡 **Career opportunities** in Data Science
 
-#### 📊 **Analyse Tinder - Prédiction de Second Rendez-vous**
-- Analyse exploratoire des attributs clés (Pandas, Matplotlib/Seaborn)
-- Modélisation prédictive des probabilités de succès
-- **Tech** : Python, Data Visualization
+## 💬 Ask me about ...
+- 🔬 **Machine Learning algorithms** and model optimization
+- 📊 **Data visualization** and storytelling with data
+- 🗣️ **Linguistics** and natural language processing
+- 🎯 **Converting business problems** into data science solutions
 
-#### 🏨 **Recommandation Hôtelière avec Data Engineering**
-- Pipeline ETL complet (API, Scraping, PySpark)
-- Data Lake AWS S3 + Base SQL (AWS RDS)
-- Visualisation interactive avec Plotly
-- **Tech** : PySpark, AWS, SQL
+## 📫 How to reach me ...
+- 📧 **Email**: m.boumrar@hotmail.fr
+- 💼 **LinkedIn**: [Mohamed BOUMRAR](https://www.linkedin.com/in/mohamedboumrar-84b704131)
+- 📍 **Location**: Domont, France
 
-### 🛠️ Stack Technique
-
-**Langages** : Python (Scikit-learn, Pandas, TensorFlow/Keras), PySpark, SQL  
-**Data Science** : Machine Learning, NLP, Deep Learning, Feature Engineering  
-**Cloud & Engineering** : AWS, S3, Flask API, ETL  
-**Outils** : Git, Docker, Tableau, BeautifulSoup, Selenium  
-
-### 🎓 Formation
-- **Data Science & Engineering Fullstack** - Jedha Bootcamp (2024-2025)
-- **Master 2 Humanités Numériques** - CY Cergy Paris Université
-- **Master 1 Sciences du Langage** - CY Cergy Paris Université
-
-### 🌍 Langues
-- **Kabyle** : Langue maternelle
-- **Français** : C2
-- **Anglais** : B1
+## ⚡ Fun fact ...
+- 🗣️ I speak **3 languages**: Kabyle (native), French (C2), English (B1)
+- 🎓 My **linguistics background** gives me a unique perspective on NLP and text analysis
+- 🎯 I can code with my **eyes shut** (just like Jérémy! 😄)
 
 ---
 
-📫 **Contact** : m.boumrar@hotmail.fr  
-🔗 **LinkedIn** : [Mohamed BOUMRAR](https://www.linkedin.com/in/mohamedboumrar-84b704131)  
-📍 **Localisation** : Domont, France
+### 🛠️ Technologies & Tools
+
+**Languages**: Python, SQL, PySpark  
+**ML/AI**: Scikit-learn, TensorFlow, Pandas, NumPy  
+**Data Viz**: Matplotlib, Seaborn, Plotly, Streamlit  
+**Cloud**: AWS (S3, RDS), GCP  
+**Tools**: Git, Docker, Jupyter, Flask  
+**Databases**: PostgreSQL, SQL Server  
+
+### 🏆 Featured Projects
+
+#### 🕵️ Fake News Detection with NLP
+- **92% accuracy** classification of 10,000 articles
+- Real-time API deployment with Flask
+- **Tech**: Python, BERT, Random Forest, NLP
+
+#### 💕 Tinder Success Prediction
+- Predictive modeling for second date probability
+- Exploratory data analysis with advanced visualizations
+- **Tech**: Python, Pandas, Matplotlib/Seaborn
+
+#### 🏨 Hotel Recommendation Engine
+- Complete ETL pipeline with PySpark
+- AWS Data Lake (S3) + SQL database (RDS)  
+- **Tech**: PySpark, AWS, SQL, Plotly
